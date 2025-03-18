@@ -124,4 +124,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
-For questions or feedback, please contact Kunusothu Praveen at praveenkunusothu97@gmail.com.
+For questions or feedback, please contact Kunusothu Praveen at ginnaramabhinay26@gmail.com.
